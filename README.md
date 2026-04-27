@@ -5,10 +5,10 @@
 Undergraduate @ Kyung Hee University (Big Data Applied Science)  
 Exchange @ University of Tübingen, Dept. of Computational Linguistics
 
-**Research Interests**  
+### Research Interests
 Representation Learning · Mechanistic Interpretability · Computational Pragmatics
 
-**Projects**  
+### Projects
 - [은둔 청년의 심리 회복과 자립을 연결하는 AI 기반 플랫폼 Doody](https://github.com/se-eonkim/doody-ai-platform)
 - [Mapping the Lexicon of Hate: Offensive Language Structure in Korean Online Discourse](https://github.com/se-eonkim/kold-hate-speech-analysis)
 - [말투에 숨겨진 감정, GPT로 읽어내기](https://github.com/se-eonkim/hidden-affect-detection-korean-text)
