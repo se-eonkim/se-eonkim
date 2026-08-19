@@ -6,7 +6,7 @@ Undergraduate @ Kyung Hee University (Big Data Applied Science)
 Exchange @ University of Tübingen, Dept. of Computational Linguistics
 
 ### Research Interests
-Representation Learning · Mechanistic Interpretability · Computational Pragmatics
+Representation Learning · Mechanistic Interpretability · Probing · Faithfulness & Failure Analysis
 
 ### Projects
 - [공백 청년의 심리 회복과 금융 자립을 연결하는 AI 기반 플랫폼 Doody](https://github.com/se-eonkim/doody-ai-platform)
