@@ -13,7 +13,7 @@ Representation Learning · Mechanistic Interpretability · Probing · Faithfulne
 - [Mapping the Lexicon of Hate: Offensive Language Structure in Korean Online Discourse](https://github.com/se-eonkim/kold-hate-speech-analysis)
 
 ### Projects
-- [공백 청년의 심리 회복과 금융 자립을 연결하는 AI 기반 플랫폼 Doody](https://github.com/se-eonkim/doody-ai-platform)
+- [AI Engine : 공백 청년의 일상 회복과 금융 자립을 연결하는 AI 기반 플랫폼 Doody]([https://github.com/se-eonkim/doody-ai-platform](https://github.com/se-eonkim/doody-ai))
 - [20대/21대 국회 공동발의 네트워크 분석을 통한 초당적 협력 요인 분석](https://github.com/se-eonkim/korean-national-assembly-network-analysis)
 
 - [말투에 숨겨진 감정, GPT로 읽어내기](https://github.com/se-eonkim/hidden-affect-detection-korean-text)
