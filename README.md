@@ -33,29 +33,29 @@ Representation Learning · Mechanistic Interpretability · Faithfulness & Failur
 3. [말투에 숨겨진 감정, GPT로 읽어내기](https://github.com/se-eonkim/hidden-affect-detection-korean-text)
 
 ### Awards
-**Excellence Award**, KOSSDA Data Fair 2026 (2026.08)
-Korea Social Science Data Archive
-**Grand Award**, TECH4GOOD Hackathon (2026.07)
-SK Telecom × Hana Financial Group
-Built the time-series engine for a stock-chart sonification/haptic app (visually impaired) — price series → trend segments + volatility, not raw coordinates
+1. **Excellence Award**, KOSSDA Data Fair 2026 (2026.08)
+  - Korea Social Science Data Archive
+2. **Grand Award**, TECH4GOOD Hackathon (2026.07)
+  - SK Telecom × Hana Financial Group
+  - Built the time-series engine for a stock-chart sonification/haptic app (visually impaired) — price series → trend segments + volatility, not raw coordinates
 
 ### Activities
-**Intensive Software Training** (2026.05–07, 160 hours)
-Korea AI · Software Industry Association
-**Hana Financial Talent Program** (2026.03 ~ 2026.07)
-Hana Financial Group
-**CODE**, Data Science Club (2024.03–2025.08)
-Kyung Hee University
+1. **Intensive Software Training** (2026.05–07, 160 hours)
+  - Korea AI · Software Industry Association
+2. **Hana Financial Talent Program** (2026.03 ~ 2026.07)
+  - Hana Financial Group
+3. **CODE**, Data Science Club (2024.03–2025.08)
+  - Kyung Hee University
 
 
 ### Skills
-**Languages**
-Korean (native) · English (professional working proficiency)
-**Methods**
-statistical inference · ML modeling · exploratory data analysis · network analysis
+1. **Languages**
+  - Korean (native) · English (professional working proficiency)
+2. **Methods**
+  - statistical inference · ML modeling · exploratory data analysis · network analysis
 model representation analysis · probing
-**Tools**
-Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas/NumPy · NetworkX · FastAPI · Git
+3. **Tools**
+  - Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas/NumPy · NetworkX · FastAPI · Git
 
 ### Certifications
 - 2026.04 OPIc IH
