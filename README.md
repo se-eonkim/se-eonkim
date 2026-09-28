@@ -3,11 +3,15 @@
 📧 03essu@khu.ac.kr
 
 **Kyung Hee University**, Seoul, Korea
+
 B.S. in Big Data Applied Science / GPA: 4.21/4.5 (3.945/4.3)
+
 (2023.03 – 2027, expected)
 
 **University of Tübingen**, Baden-Württemberg, Germany
+
 Exchange student in Computational Linguistics (ISCL)
+
 (2025.10 – 2026.03)
 
 ### Research Interests
