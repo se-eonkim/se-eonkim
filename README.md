@@ -18,7 +18,7 @@ Representation Learning · Mechanistic Interpretability · Faithfulness & Failur
    - Independent Research (advisor: Prof. Minkyung Kim)
 3. [혐오는 어떻게 남아 재생산되는가? 사회에서 언어로, 언어에서 AI로](https://github.com/se-eonkim/KOSSDA)
    - *Single-authored*
-   - ***Excellence Award** at KOSSDA Data Fair 2026 
+   - **Excellence Award** at KOSSDA Data Fair 2026 
 4. [Mapping the Lexicon of Hate: Offensive Language Structure in Korean Online Discourse](https://github.com/se-eonkim/kold-hate-speech-analysis)
    - *Sole author of the Korean study*
    - *Cross-linguistic research project of offensive-language structure (Korean · Italian · Sinhala), University of Tübingen*
