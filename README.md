@@ -37,7 +37,8 @@ Representation Learning · Mechanistic Interpretability · Faithfulness & Failur
   - Korea Social Science Data Archive
 2. **Grand Award**, TECH4GOOD Hackathon (2026.07)
   - SK Telecom × Hana Financial Group
-  - Built the time-series engine for a stock-chart sonification/haptic app (visually impaired) — price series → trend segments + volatility, not raw coordinates
+  - Built the time-series engine for [a stock-chart sonification/haptic app](https://github.com/se-eonkim/tfg-team12) (visually impaired) — price series → trend
+segments + volatility, not raw coordinates
 
 ### Activities
 1. **Intensive Software Training** (2026.05–07, 160 hours)
