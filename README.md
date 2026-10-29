@@ -20,7 +20,7 @@ Representation Learning · Mechanistic Interpretability · Faithfulness & Failur
 ### Research
 1. VLM Representation Research (2026.09–in progress)
    - ITML Lab (advisor: Prof. Jy-yong Sohn)
-2. Decode≠Use : A Causal Study of Encoded Target-Group Information in Korean Language Models (2026.07–in progress)
+2. Gender Information in the Internal Representations of Korean BERT Offensive Language Classifiers: Decodability and Intervention Validity
    - Independent Research (advisor: Prof. Minkyung Kim)
 3. [혐오는 어떻게 남아 재생산되는가? 사회에서 언어로, 언어에서 AI로](https://github.com/se-eonkim/KOSSDA)
    - *Single-authored*
