@@ -1,14 +1,19 @@
 ## Seeon Kim
 
 📧 03kimseun@gmail.com
+
 I am interested in the structure of representations in foundation models, particularly how they encode meaning and world state, align across modalities, and break down under changing conditions. My interests extend from language models and multimodal systems to representations of the physical world.
 
 **Kyung Hee University**, Seoul, Korea
+
 B.S. in Big Data Analytics / GPA: 3.945/4.3 (4.21/4.5)
+
 (2023.03–2027, expected)
 
 **University of Tübingen**, Baden-Württemberg, Germany
+
 Exchange student in Computational Linguistics (ISCL)
+
 (2025.10–2026.03)
 
 ### Research Interests
