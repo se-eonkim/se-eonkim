@@ -33,7 +33,7 @@ Representation Learning · Mechanistic Interpretability · Multimodal Alignment 
    - *Korean–Italian–Sinhala Research Collaboration, University of Tübingen*
 
 ### Projects
-1. [Doody: An Interpretable State-Space Engine for Rebuilding Daily Routines and Financial Self-Reliance](https://github.com/HanaDoody/doody-ai) (2026.03–2026.07)
+1. [Doody: An Interpretable State-Space Engine for Rebuilding Daily Routines and Financial Self-Reliance](https://github.com/HanaDoody/doody-ai-engine) (2026.03–2026.07)
    - *Team Lead, AI Engine Lead*
    - *Four-month Hana Financial Talent Program, 13 of 220 teams selected*
 2. [Cross-Party Cooperation in the Korean National Assembly: A Co-sponsorship Network Analysis](https://github.com/se-eonkim/korean-national-assembly-network-analysis) (2024.08–2024.12)
