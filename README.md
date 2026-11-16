@@ -23,7 +23,7 @@ Representation Learning · Mechanistic Interpretability · Multimodal Alignment 
 1. Interpretable Many-to-Many Concept Correspondence between Modality-Specific SAE Features in VLMs (2026.09–present)
    - Research Intern, ITML Lab, Yonsei University (advisor: Prof. Jy-yong Sohn)
 2. Gender Information in the Internal Representations of Korean BERT Offensive Language Classifiers: Decodability and Intervention Validity (2026.07–2026.10)
-   - *First-author manuscript under review at Korea Software Congress (KSC 2026)*
+   - *First-author paper, Korea Software Congress (KSC 2026)*
    - *Co-author: Prof. Minkyoung Kim*
 3. [The Structure and Persistence of Hate across Social Perception, Online Discourse, and Model Representations](https://github.com/se-eonkim/KOSSDA) (2026.04–2026.06)
    - *Single-authored*
