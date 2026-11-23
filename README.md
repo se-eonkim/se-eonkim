@@ -29,7 +29,7 @@ Representation Learning · Mechanistic Interpretability · Multimodal Alignment 
    - *Single-authored*
    - *Excellence Award at Korea Social Science Data Archive Data Fair 2026 (among 261 entries, hosted by Seoul National University)*
 4. [Mapping the Lexicon of Hate: Target Networks and Framing in Korean Online Discourse](https://github.com/se-eonkim/kold-hate-speech-analysis) (2025.10–2026.03)
-   - *Cross-linguistic Project(Korean–Italian–Sinhala), University of Tübingen*
+   - *Cross-linguistic Project(Korean–Italian–Sinhala) at University of Tübingen*
    - *Sole Author of the Korean Study*
 
 ### Projects
