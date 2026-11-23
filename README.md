@@ -27,7 +27,7 @@ Representation Learning · Mechanistic Interpretability · Multimodal Alignment 
    - *Co-author and advisor: Prof. Minkyoung Kim*
 3. [The Structure and Persistence of Hate across Social Perception, Online Discourse, and Model Representations](https://github.com/se-eonkim/KOSSDA) (2026.04–2026.06)
    - *Single-authored*
-   - *Excellence Award at Korea Social Science Data Archive Data Fair 2026 (among 261 entries), hosted by Seoul National University)*
+   - *Excellence Award at Korea Social Science Data Archive Data Fair 2026 (among 261 entries, hosted by Seoul National University)*
 4. [Mapping the Lexicon of Hate: Target Networks and Framing in Korean Online Discourse](https://github.com/se-eonkim/kold-hate-speech-analysis) (2025.10–2026.03)
    - *Cross-linguistic Project(Korean–Italian–Sinhala), University of Tübingen*
    - *Sole Author of the Korean Study*
